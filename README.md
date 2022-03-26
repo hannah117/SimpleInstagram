@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![SimpleInstagram](https://user-images.githubusercontent.com/29544357/160227493-3d2fbb26-8182-4814-bff8-fdbe2bcffdb4.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
